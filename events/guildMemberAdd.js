@@ -18,3 +18,4 @@ ${member.user} has joined the server
   client.channels.find("id", joinChannelID).send({embed}).catch(console.error);
 
   }
+lmao
